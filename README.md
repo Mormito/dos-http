@@ -7,6 +7,9 @@
  A melhor de forma de se defender é sabendo como se ataca.
 
 
+ 
+
+
 # Denial of Service - HTTP REQUESTS (English)
 
  This project is a better version of my last dos code.
