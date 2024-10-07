@@ -1,4 +1,4 @@
-# Denial of Service - HTTP REQUESTS
+# Denial of Service - HTTP REQUESTS (Português)
 
  Uma melhoria do meu antigo código que era simples demais para fazer algo.
 
@@ -7,7 +7,7 @@
  A melhor de forma de se defender é sabendo como se ataca.
 
 
-# English
+# Denial of Service - HTTP REQUESTS (English)
 
  This project is a better version of my last dos code.
  
